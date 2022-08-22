@@ -1,4 +1,4 @@
-# Bank pass
+# Password characters
  
 Simple script to get characters from banking password
 
